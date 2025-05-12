@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 
 import dev.hms.hospital_management_system.service.AdminService;
 
+//this is admin controller
 @RestController
 @RequestMapping("/api/admin")
 public class AdminController {
